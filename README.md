@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=sw10JzeZPEU
 
 # GUI (Bind: RShift)
 
-![image](https://github.com/IseyitThe/Krypton/blob/main/GUI.png?raw=true)
+![image](https://github.com/IseyitThe/Krypton+/blob/main/GUI.png?raw=true)

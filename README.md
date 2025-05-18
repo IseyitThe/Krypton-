@@ -1,4 +1,4 @@
-<h1 align="center">Krypton+ | Latest | 2.4 </h1>
+<h1 align="center">Krypton+ | Latest | 2.5 </h1>
 
 # Showcase
 

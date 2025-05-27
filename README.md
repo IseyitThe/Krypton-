@@ -1,4 +1,4 @@
-<h1 align="center">Krypton+ | Latest | 2.6 </h1>
+<h1 align="center">Krypton+ | Latest | 2.7 </h1>
 
 Add ```-NoVerify``` argument on your launch options.
 
